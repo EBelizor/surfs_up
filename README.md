@@ -19,7 +19,7 @@ While the previous analysis provided solid evidence, we now have one more task, 
   - June Temps: 56.0
   - December Temps: 64.0
 
-![](Images/december.png)
+![]("Images/december.png")
 
 ## Summary
 

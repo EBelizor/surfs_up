@@ -32,4 +32,4 @@ The standard deviations are also relatively small compared to our data, which te
 The one concern is that the lowest temperature on record for December was 56 degrees. That is definetely an issue, as we can imagine sub 60 temperatures does not make good for surfing or ice-cream. 
 
 ### Conclusion
-While the rest of our statistics show a very positive outlook for "Surf n' Shake", it is clear that the lows expereinces in December and the winter months need to be taken into account. The minimum temperature recorded in December informs us that we need to be preapred for slow days or even weeks during the winter season. Overall the shop seems to be on track for success thanks to the beurtiful weather in Hawaii.  
+While the rest of our statistics show a very positive outlook for "Surf n' Shake", it is clear that the lows expereinces in December and the winter months need to be taken into account. The minimum temperature recorded in December informs us that we need to be preapred for slow days or even weeks during the winter season. Overall the shop seems to be on track for success thanks to the beautiful weather of Hawaii.  

@@ -10,7 +10,7 @@ While the previous analysis provided solid evidence, we now have one more task, 
 
 ## Results
 
-![](Resoures/june_temp.png)
+![](Images/june_temp.png)
 - June Temps: Mean = 74.9
 
 - December Temps: Mean = 71.0
@@ -19,7 +19,7 @@ While the previous analysis provided solid evidence, we now have one more task, 
   - June Temps: 56.0
   - December Temps: 64.0
 
-![](Resources/december.png)
+![](Images/december.png)
 
 ## Summary
 

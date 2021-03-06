@@ -10,17 +10,26 @@ While the previous analysis provided solid evidence, we now have one more task, 
 
 ## Results
 
-![](Images/june_temp.png)
+![](images/june_temp.png)
 - June Temps: Mean = 74.9
 
 - December Temps: Mean = 71.0
 
 - Min Temps:
-  - June Temps: 56.0
-  - December Temps: 64.0
+  - June Temps: 64.0
+  - December Temps: 56.0
 
-![]("Images/december.png")
+![](images/december.png)
 
 ## Summary
 
-There are some really good signs from our analysis of our 
+### Analyzing Mean
+There are some really good signs from our analysis of we see that the mean temperature for June is about 75 degrees with a standard deviation of 3.25, and that the mean for 71 degrees with a standard deviation of 3.75. The mean between the two opposite months are only 4 degrees apart, this tells us that on average Hawaii is able to maintain consistent temperatures. 
+
+The standard deviations are also relatively small compared to our data, which tells us that we will typically not stray too far from our mean. 
+
+### Minimum
+The one concern is that the lowest temperature on record for December was 56 degrees. That is definetely an issue, as we can imagine sub 60 temperatures does not make good for surfing or ice-cream. 
+
+### Conclusion
+While the rest of our statistics show a very positive outlook for "Surf n' Shake", it is clear that the lows expereinces in December and the winter months need to be taken into account. The minimum temperature recorded in December informs us that we need to be preapred for slow days or even weeks during the winter season. Overall the shop seems to be on track for success thanks to the beurtiful weather in Hawaii.  
